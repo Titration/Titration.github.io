@@ -1,0 +1,9 @@
+# - name: Home
+#   link: /
+# - name: About
+#   link: /about.html
+# - name: Blog
+#   link: /blog.html
+
+- school : ELECTRICAL AND COMPUTER ENGINEERING
+  school_link : https://uwaterloo.ca/electrical-computer-engineering/
